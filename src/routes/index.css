@@ -4,6 +4,14 @@ body {
   margin: 0;
   font-family: PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
   background: linear-gradient(to bottom, transparent, #fff) #eceeef;
+  height: 100%;
+}
+.flex {
+  display: flex;
+}
+#root {
+  height: 100%;
+  display: flex;
 }
 
 p {
